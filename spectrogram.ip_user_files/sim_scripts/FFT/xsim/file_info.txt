@@ -1,0 +1,1 @@
+FFT.vhd,vhdl,xil_defaultlib,../../../../spectrogram.gen/sources_1/ip/FFT/sim/FFT.vhd,
